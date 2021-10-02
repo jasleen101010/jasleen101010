@@ -1,3 +1,18 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjasleen101010&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Metrics](https://metrics.lecoq.io/jasleen101010?template=classic&base.repositories=0&base.metadata=0&languages=1&tweets=1&achievements=1&lines=1&notable=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FCalcutta)
+# Hi, I'm Jasleen! 👋
+
+  
+## 🚀 About Me
+I'm an aspiring Data Scientist📊, Open Source Lover and Women in Tech Advocate👩🏽‍💻! I also enjoy mentoring people. When offline, I paint 🎨 and read 📚.
+
+  
+## 🛠 My Skills include...
+Python, R, C, C#, Version Control, Microsoft Azure, GCP, Java, Javascript, HTML, CSS, MATLAB, SQL, Tableau.
+
+  
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasleen-sondhi/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jasleensondhi)
+
+  
