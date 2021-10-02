@@ -15,6 +15,8 @@ Python, R, C, C#, Version Control, Microsoft Azure, GCP, Java, Javascript, HTML,
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasleen-sondhi/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jasleensondhi)
 
-[![Jasleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasleen101010)](https://github.com/anuraghazra/github-readme-stats)
+[![Jasleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasleen101010&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
   
