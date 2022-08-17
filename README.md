@@ -43,11 +43,7 @@ I am currently looking for new roles as a:
 </a> &nbsp;&nbsp;--->
 
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jasleen101010&show_icons=true&theme=radical&count_private=true" alt="my github stats" width="420"/>&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasleen101010&langs_count=4&layout=compact&theme=radical&count_private=true" alt="languages" height="165">
+</p>
 
-
-
-[![Jasleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasleen101010&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats);<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasleen101010&langs_count=4&layout=compact&theme=tokyonight&count_private=true" alt="languages" height="195" width="500">
-
-
-
-  
