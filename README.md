@@ -3,14 +3,14 @@
 
   
 ## 🚀 About Me
-I'm an aspiring Data Scientist📊, Open Source Lover and Women in Tech Advocate👩🏽‍💻! I also enjoy mentoring people. When offline, I paint 🎨 and read 📚. <br>
+I'm currently working at HSBC as an Analyst Intern📊📊 and am an Open Source Lover and Women in Tech Advocate👩🏽‍💻! I also enjoy mentoring people. When offline, I paint 🎨 and read 📚. <br>
 
-I am currently looking for new roles as a:
+<!--I am currently looking for new roles as a:
 - Data Scientist
 - Data Analyst
 - Business Analyst 
 - Data Engineer 
-- Product Analyst
+- Product Analyst-->
 
   
 ## 🛠 My Skills include...
