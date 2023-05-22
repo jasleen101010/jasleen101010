@@ -50,3 +50,6 @@ I'm currently working at HSBC as an Analyst Intern📊📊 and am an Open Source
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasleen101010&theme=radical"  />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
