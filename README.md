@@ -53,15 +53,15 @@ I'm currently working at HSBC as an Analyst Intern📊📊 and am an Open Source
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2021 - To: 21 June 2023
+From: 15 May 2021 - To: 22 June 2023
 
-Total Time: 38 hrs 11 mins
+Total Time: 38 hrs 12 mins
 
-HTML         12 hrs 14 mins  >>>>>>>>-----------------   32.04 %
-Java         8 hrs 34 mins   >>>>>>-------------------   22.45 %
-EJS          6 hrs 11 mins   >>>>---------------------   16.19 %
-Python       5 hrs 48 mins   >>>>---------------------   15.21 %
-Markdown     3 hrs 16 mins   >>-----------------------   08.57 %
+HTML         12 hrs 14 mins  >>>>>>>>-----------------   32.03 %
+Java         8 hrs 34 mins   >>>>>>-------------------   22.44 %
+EJS          6 hrs 11 mins   >>>>---------------------   16.18 %
+Python       5 hrs 49 mins   >>>>---------------------   15.25 %
+Markdown     3 hrs 16 mins   >>-----------------------   08.56 %
 CSS          37 mins         -------------------------   01.64 %
 Other        37 mins         -------------------------   01.62 %
 JavaScript   19 mins         -------------------------   00.87 %
