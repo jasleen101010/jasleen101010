@@ -3,7 +3,9 @@
 
   
 ## 🚀 About Me
-I'm currently working at HSBC as an Analyst Intern📊📊 and am an Open Source Lover and Women in Tech Advocate👩🏽‍💻! I also enjoy mentoring people. When offline, I paint 🎨 and read 📚. <br>
+I am a proud woman in Tech/Data. By day, I'm a Business Analyst, deciphering data like a pro. I've had the privilege of collaborating with well-known brands like HSBC, Scaler Academy, and Unacademy, where my analytical skills have been put to good use. I have also volunteered for the Microsoft and Codecademy tech communities. Academically, I've equipped myself with a Bachelor's in Physics, Mathematics, and Computer Science, along with a Master's in Data Science. When offline, I paint 🎨 and read 📚. 
+
+So, if you want to chat tech, data, or just have a good old conversation, drop me a line at jasleensondhi@gmail.com. 📧💬<br>
 
 <!--I am currently looking for new roles as a:
 - Data Scientist
@@ -16,6 +18,7 @@ I'm currently working at HSBC as an Analyst Intern📊📊 and am an Open Source
 ## 🛠 My Skills include...
 - Python 🐍
 - R 🖥️
+- Excel 📊
 - Data Visualization: Power BI, Excel, Basics of Tableau, Seaborn, Matplotlib and ggplot2 📈
 - Machine Learning 🤖
 - NLP 🔊🗣️
