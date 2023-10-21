@@ -15,7 +15,7 @@ I am a proud woman in Tech/Data. By day, I'm a Business Analyst, deciphering dat
 - Product Analyst-->
 
   
-## 🛠 My Skills include...
+## 🛠 My Skills include:
 - Python 🐍
 - R 🖥️
 - Excel 📊
