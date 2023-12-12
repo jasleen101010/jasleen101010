@@ -56,18 +56,18 @@ I am a proud woman in Tech/Data. By day, I'm a Business Analyst, deciphering dat
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2021 - To: 07 December 2023
+From: 15 May 2021 - To: 10 December 2023
 
-Total Time: 40 hrs 40 mins
+Total Time: 41 hrs 1 min
 
-HTML         13 hrs 22 mins  >>>>>>>>-----------------   32.88 %
-Java         8 hrs 34 mins   >>>>>--------------------   21.09 %
-EJS          6 hrs 11 mins   >>>>---------------------   15.21 %
-Python       6 hrs 2 mins    >>>>---------------------   14.85 %
-Markdown     3 hrs 16 mins   >>-----------------------   08.07 %
-JavaScript   51 mins         >------------------------   02.12 %
-CSS          38 mins         -------------------------   01.58 %
-Other        38 mins         -------------------------   01.58 %
+HTML         13 hrs 22 mins  >>>>>>>>-----------------   32.60 %
+Java         8 hrs 55 mins   >>>>>--------------------   21.76 %
+EJS          6 hrs 11 mins   >>>>---------------------   15.08 %
+Python       6 hrs 2 mins    >>>>---------------------   14.72 %
+Markdown     3 hrs 16 mins   >>-----------------------   08.00 %
+JavaScript   51 mins         >------------------------   02.10 %
+CSS          38 mins         -------------------------   01.57 %
+Other        38 mins         -------------------------   01.56 %
 Text         19 mins         -------------------------   00.81 %
 YAML         13 mins         -------------------------   00.55 %
 ```
