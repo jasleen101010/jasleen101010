@@ -56,7 +56,7 @@ I am a proud woman in Tech/Data. By day, I'm a Business Analyst, deciphering dat
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2021 - To: 02 April 2024
+From: 15 May 2021 - To: 03 April 2024
 
 Total Time: 41 hrs 1 min
 
