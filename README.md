@@ -3,7 +3,7 @@
 
   
 ## 🚀 About Me
-I am a proud woman in Tech/Data. By day, I'm a Business Analyst, deciphering data like a pro. I've had the privilege of collaborating with well-known brands like HSBC, Scaler Academy, and Unacademy, where my analytical skills have been put to good use. I have also volunteered for the Microsoft and Codecademy tech communities. Academically, I've equipped myself with a Bachelor's in Physics, Mathematics, and Computer Science, along with a Master's in Data Science. When offline, I paint 🎨 and read 📚. 
+I am a proud woman in Tech/Data. By day, I'm a Data Analyst at HSBC, deciphering data like a pro. I've had the privilege of collaborating with well-known brands like HSBC, Scaler Academy, and Unacademy, where my analytical skills have been put to good use. I have also volunteered for the Microsoft and Codecademy tech communities. Academically, I've equipped myself with a Bachelor's in Physics, Mathematics, and Computer Science, along with a Master's in Data Science. When offline, I paint 🎨 and read 📚. 
 
 <br>
 
