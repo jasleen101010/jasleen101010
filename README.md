@@ -37,7 +37,7 @@ I am a proud woman in Tech/Data. By day, I'm a Data Analyst at HSBC, deciphering
 <a href="https://medium.com/@jasleen101010">
   <img alt="Medium"  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a> &nbsp;&nbsp; 
-<a href="https://www.instagram.com/jasleen.codes/">
+<a href="https://www.instagram.com/jasleen101010/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a> &nbsp;&nbsp;
 
@@ -48,7 +48,7 @@ I am a proud woman in Tech/Data. By day, I'm a Data Analyst at HSBC, deciphering
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jasleen101010&show_icons=true&theme=radical&count_private=true" alt="my github stats" width="420"/>&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasleen101010&langs_count=4&layout=compact&theme=radical&count_private=true" alt="languages" height="165">
-<img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasleen101010&theme=radical&cache_seconds=30&hide_border=true"/>
+<!--<img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasleen101010&theme=radical&cache_seconds=30&hide_border=true"/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasleen101010&theme=radical"  />
 </p>
