@@ -56,7 +56,7 @@ I am a proud woman in Tech/Data. By day, I'm a Data Analyst at HSBC, deciphering
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2021 - To: 05 February 2026
+From: 15 May 2021 - To: 06 February 2026
 
 Total Time: 41 hrs 1 min
 
