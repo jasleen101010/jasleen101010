@@ -56,20 +56,20 @@ I am a proud woman in Tech/Data. By day, I'm a Data Analyst at HSBC, deciphering
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2021 - To: 15 February 2026
+From: 15 May 2021 - To: 16 February 2026
 
 Total Time: 41 hrs 1 min
 
-HTML         13 hrs 22 mins  >>>>>>>>-----------------   32.60 %
-Java         8 hrs 55 mins   >>>>>--------------------   21.76 %
-EJS          6 hrs 11 mins   >>>>---------------------   15.08 %
-Python       6 hrs 2 mins    >>>>---------------------   14.72 %
-Markdown     3 hrs 16 mins   >>-----------------------   08.00 %
-JavaScript   51 mins         >------------------------   02.10 %
-CSS          38 mins         -------------------------   01.57 %
-Other        38 mins         -------------------------   01.56 %
-Text         19 mins         -------------------------   00.81 %
-YAML         13 mins         -------------------------   00.55 %
+HTML         13 hrs 22 mins        >>>>>>>>-----------------   32.60 %
+Java         8 hrs 55 mins         >>>>>--------------------   21.76 %
+EJS          6 hrs 11 mins         >>>>---------------------   15.08 %
+Python       6 hrs 2 mins          >>>>---------------------   14.72 %
+Markdown     3 hrs 16 mins         >>-----------------------   08.00 %
+JavaScript   51 mins               >------------------------   02.10 %
+CSS          38 mins               -------------------------   01.57 %
+Other        38 mins               -------------------------   01.56 %
+Text         19 mins               -------------------------   00.81 %
+YAML         13 mins               -------------------------   00.55 %
 ```
 
 <!--END_SECTION:waka-->
